@@ -1,0 +1,35 @@
+{
+    "challenge": {
+        "name": "ARKA 100",
+        "day": 1,
+        "total_days": 100,
+        "status": "ACTIVE"
+    },
+    "account": {
+        "starting_capital": 100000000,
+        "equity": 100000000,
+        "return_pct": 0
+    },
+    "performance": {
+        "total_trades": 0,
+        "wins": 0,
+        "losses": 0,
+        "win_rate": null,
+        "profit_factor": null,
+        "max_drawdown_pct": 0
+    },
+    "market": {
+        "ihsg_return_pct": null,
+        "lq45_return_pct": null
+    },
+    "today": {
+        "daily_return_pct": 0,
+        "summary": "ARKA mencatat 0 paper trade."
+    },
+    "trades": [],
+    "journal": {
+        "title": "ARKA 100 berjalan",
+        "content": "Data dashboard diambil langsung dari database ARKA 100."
+    },
+    "generated_at": "2026-08-23T01:18:33.523088"
+}
