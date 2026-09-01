@@ -1,7 +1,7 @@
 {
     "challenge": {
         "name": "ARKA 100",
-        "day": 8,
+        "day": 9,
         "total_days": 100,
         "status": "ACTIVE"
     },
@@ -11,7 +11,7 @@
         "return_pct": 0
     },
     "performance": {
-        "total_trades": 5,
+        "total_trades": 6,
         "wins": 0,
         "losses": 0,
         "win_rate": null,
@@ -24,9 +24,19 @@
     },
     "today": {
         "daily_return_pct": 0,
-        "summary": "ARKA mencatat 5 paper trade."
+        "summary": "ARKA mencatat 6 paper trade."
     },
     "trades": [
+        {
+            "id": 14,
+            "ticker": "DEWA",
+            "date": "2026-09-01",
+            "setup": "Trend pullback 20/50, RSI 56.9, price near MA20",
+            "entry": "459.69 - 464.31",
+            "target": 529.65,
+            "stop_loss": 416.9,
+            "status": "sent"
+        },
         {
             "id": 13,
             "ticker": "BBCA",
@@ -35,7 +45,7 @@
             "entry": "6442.62 - 6507.37",
             "target": 6873.29,
             "stop_loss": 6209.47,
-            "status": "sent"
+            "status": "expired"
         },
         {
             "id": 12,
@@ -82,5 +92,5 @@
         "title": "ARKA 100 berjalan",
         "content": "Data dashboard diambil langsung dari database ARKA 100."
     },
-    "generated_at": "2026-08-31T18:46:15.316461+07:00"
+    "generated_at": "2026-09-01T18:47:36.153006+07:00"
 }
