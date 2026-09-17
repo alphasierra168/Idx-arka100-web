@@ -1,7 +1,7 @@
 {
     "challenge": {
         "name": "ARKA 100",
-        "day": 24,
+        "day": 25,
         "total_days": 100,
         "status": "ACTIVE"
     },
@@ -11,7 +11,7 @@
         "return_pct": 0
     },
     "performance": {
-        "total_trades": 9,
+        "total_trades": 10,
         "wins": 0,
         "losses": 0,
         "win_rate": null,
@@ -24,9 +24,19 @@
     },
     "today": {
         "daily_return_pct": 0,
-        "summary": "ARKA mencatat 9 paper trade."
+        "summary": "ARKA mencatat 10 paper trade."
     },
     "trades": [
+        {
+            "id": 19,
+            "ticker": "BBRI",
+            "date": "2026-09-17",
+            "setup": "Trend pullback 20/50, RSI 56.4, price near MA20",
+            "entry": "3313.35 - 3346.65",
+            "target": 3552.55,
+            "stop_loss": 3181.64,
+            "status": "sent"
+        },
         {
             "id": 17,
             "ticker": "BBRI",
@@ -35,7 +45,7 @@
             "entry": "3303.4 - 3336.6",
             "target": 3556.62,
             "stop_loss": 3162.25,
-            "status": "sent"
+            "status": "expired"
         },
         {
             "id": 16,
@@ -122,5 +132,5 @@
         "title": "ARKA 100 berjalan",
         "content": "Data dashboard diambil langsung dari database ARKA 100."
     },
-    "generated_at": "2026-09-16T18:49:58.056365+07:00"
+    "generated_at": "2026-09-17T18:48:48.423137+07:00"
 }
