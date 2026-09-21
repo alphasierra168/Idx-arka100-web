@@ -1,7 +1,7 @@
 {
     "challenge": {
         "name": "ARKA 100",
-        "day": 26,
+        "day": 29,
         "total_days": 100,
         "status": "ACTIVE"
     },
@@ -35,7 +35,7 @@
             "entry": "3313.35 - 3346.65",
             "target": 3552.55,
             "stop_loss": 3181.64,
-            "status": "sent"
+            "status": "expired"
         },
         {
             "id": 17,
@@ -132,5 +132,5 @@
         "title": "ARKA 100 berjalan",
         "content": "Data dashboard diambil langsung dari database ARKA 100."
     },
-    "generated_at": "2026-09-18T18:47:18.042272+07:00"
+    "generated_at": "2026-09-21T18:49:01.562775+07:00"
 }
