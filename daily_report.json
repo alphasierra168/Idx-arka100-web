@@ -1,7 +1,7 @@
 {
     "challenge": {
         "name": "ARKA 100",
-        "day": 87,
+        "day": 88,
         "total_days": 100,
         "status": "ACTIVE"
     },
@@ -132,5 +132,5 @@
         "title": "ARKA 100 berjalan",
         "content": "Data dashboard diambil langsung dari database ARKA 100."
     },
-    "generated_at": "2026-11-18T02:59:30.167805+07:00"
+    "generated_at": "2026-11-19T02:33:52.691304+07:00"
 }
